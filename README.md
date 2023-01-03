@@ -1,4 +1,5 @@
 A project I made for "Numerical Analysis" - a course in my second year at the University of Ben-Guriun.
+
 Final grade: 94
 
 ## Assignment 1
@@ -8,7 +9,9 @@ Final grade: 94
 ## Assignment 2
 - The function receives 2 functions- 𝑓1, 𝑓2, and a float maxerr.
 - The function returns an iterable of approximate intersection Xs, such that:
+
     ∀𝑥 ∈ 𝑋, |𝑓1(𝑥) − 𝑓2(𝑥)| < 𝑚𝑎𝑥𝑒𝑟𝑟
+    
     ∀𝑥𝑖𝑥𝑗 ∈ 𝑋, |𝑥𝑖 − 𝑥𝑗| > 𝑚𝑎𝑥𝑒𝑟𝑟
 
 ## Assignment 3
