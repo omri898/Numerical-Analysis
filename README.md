@@ -2,11 +2,11 @@ A project I made for "Numerical Analysis" - a course in my second year at the Un
 
 Final grade: 94
 
-## Assignment 1
+## [Assignment 1](./assignment1.py)
 - The function receives a function f, a range, and a number of points to use.
 - The function returns another interpolated function g from samples of f.
 
-## Assignment 2
+## [Assignment 2](./assignment2.py)
 - The function receives 2 functions- 𝑓1, 𝑓2, and a float maxerr.
 - The function returns an iterable of approximate intersection Xs, such that:
 
@@ -14,7 +14,7 @@ Final grade: 94
     
     ∀𝑥𝑖𝑥𝑗 ∈ 𝑋, |𝑥𝑖 − 𝑥𝑗| > 𝑚𝑎𝑥𝑒𝑟𝑟
 
-## Assignment 3
+## [Assignment 3](./assignment3.py)
 ### Assignment3.integrate
 - Receives a function f, a range, and a number of points n.
 - Returns an approximation to the integral of the function f in the given range.
@@ -23,11 +23,11 @@ Final grade: 94
 - Receives two functions 𝑓1, 𝑓2.
 - Returns the area between 𝑓1, 𝑓2 .
 
-## Assignment 4
+## [Assignment 4](./assignment4.py)
 - The function receives an input function that returns noisy results. The noise is normally distributed.
 - Returns a function 𝑔 fitting the data sampled from the noisy function.
 
-## Assignment 5
+## [Assignment 5](./assignment5.py)
 ### Assignment5.area
 - The function receives a shape contour.
 - Returns the approximate area of the shape.
